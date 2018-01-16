@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\bin\Debug\MyUnitTesting.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\bin\Debug\MyUnitTesting.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\bin\Debug\MyAGLCodingTest.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\bin\Debug\MyAGLCodingTest.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\obj\Debug\MyUnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\obj\Debug\MyUnitTesting.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyUnitTesting\obj\Debug\MyUnitTesting.pdb

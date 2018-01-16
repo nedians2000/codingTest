@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\MyAGLCodingTest.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\MyAGLCodingTest.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\MyAGLCodingTest.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\obj\Debug\MyAGLCodingTest.csproj.App.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\obj\Debug\MyAGLCodingTest.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\MyAGLCodingTest\MyAGLCodingTest\obj\Debug\MyAGLCodingTest.pdb
